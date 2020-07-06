@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Tom\source\repos\RepeatedString\RepeatedString\main.cpp(34,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  RepeatedString.vcxproj -> C:\Users\Tom\source\repos\RepeatedString\x64\Debug\RepeatedString.exe
